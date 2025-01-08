@@ -5,12 +5,37 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_DTM_GrazingAngle.uasset",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader.uasset",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_ThicknessModulation.uasset",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_detectEdges_Normal.uasset"
+=======
+<<<<<<< HEAD
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Mother.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SM_MERGED_SkeletalMeshActor_1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SM_MERGED_SkeletalMeshActor_3.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_polySurface151.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_blinn1_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_blinn1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_blinn1_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/DBasket_blinn1_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/DBasket_blinn1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/DBasket_blinn1_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_polySurface14.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/blinn1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/Basket_polySurface18.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Basket/SM_MERGED_StaticMeshActor_22.uasset"
+=======
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/BP_FunctionLibrary/BFL_LookingAt.uasset"
+>>>>>>> 7def6629f926a4649be72b1a21579f5de4ffb9b1
+>>>>>>> f6462920aca7ba8f6570200625622ba0c08f2c22
 			]
 		}
 	]
