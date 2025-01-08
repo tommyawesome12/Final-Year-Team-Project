@@ -5,31 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_CnadyBar.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_Normal.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_BaseColor.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_Normal.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_BaseColor.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/Material_001.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_Normal_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_OcclusionRoughnessMetallic_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_BaseColor_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlacedObjects.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_HidingPlaces.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
-=======
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine_Child1.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/BP_FunctionLibrary/BFL_LookingAt.uasset"
->>>>>>> 2fae4a204a47a2e48d75a2607b55f48cbb2d4306
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_TableHidingPlace.uasset"
 			]
 		}
 	]
