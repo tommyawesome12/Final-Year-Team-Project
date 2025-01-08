@@ -5,22 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_HidingPlaces.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BPI_Interact.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset"
-=======
-<<<<<<< HEAD
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset"
-=======
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine_Child1.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap"
->>>>>>> 62ab1613b1378c19d0e0a3abfdfcd62dcc0494c3
->>>>>>> ec51630f835e8113aa856fb6e1d21ef23550d553
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/RoundFrame_Material_001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/Material_001.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_Normal_1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_OcclusionRoughnessMetallic_1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/RoundClothingRack/DRoundFrame_Material_001_BaseColor_1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlacedObjects.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_HidingPlaces.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
 			]
 		}
 	]
