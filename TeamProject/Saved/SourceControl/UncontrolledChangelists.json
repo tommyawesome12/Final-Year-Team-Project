@@ -5,69 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Objectives.uasset",
->>>>>>> 90debe4690cfa13ec5405d84f3a545e861f358e5
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/CelShader.uasset",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader.uasset",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_DetectEdges_Depth.uasset",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_GetKernel.uasset",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
-				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_detectEdges_Normal.uasset",
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_DTM_GrazingAngle.uasset",
->>>>>>> 5e711dfac434a1f8f2b6064386afccf14d8fc512
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_CnadyBar.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PickupBase.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Objectives.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BPI_LookAt.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/BP_FunctionLibrary/BFL_LookingAt.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Objectives.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/FirstPerson/Blueprints/BP_AI.uasset"
-=======
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlacedObjects.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GlobalTextureUpdater.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_Black.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/ClothingRack2_standardSurface1_BaseColor_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/LClothingRack2_standardSurface1_BaseColor.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/M_SharkTest.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/ClothingRack2_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/LClothingRack2_standardSurface1_Normal.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/LClothingRack2_standardSurface1_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/ClothingRack2_standardSurface1_Normal_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/ClothingRack2_standardSurface1_OcclusionRoughnessMetallic_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_BaseColor.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_Thread_002.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_SharkHead.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_MainFinn.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_TailPeice.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_MainHead_003.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_Button.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_eyeThread2.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_eyeThread1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_Cube_030.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_Normal.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SM_MERGED_StaticMeshActor_21.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_OcclusionRoughnessMetallic_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_Normal_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SharkHead_1001_BaseColor_1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Mother.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Objectives.uasset"
->>>>>>> 31f5a733ed3be66982aef38557b603721690b2c8
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_ThicknessModulation.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Functions/MF_detectEdges_Normal.uasset"
 			]
 		}
 	]
