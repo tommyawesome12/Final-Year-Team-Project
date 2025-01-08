@@ -5,22 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine_Child1.uasset",
 				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine_Child1.uasset",
 				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/BP_FunctionLibrary/BFL_LookingAt.uasset"
-=======
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/RefrenceModels/PigeonTest.uasset"
-=======
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_CnadyBar.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_TableHidingPlace.uasset"
->>>>>>> 7c9c957ca13d32ae2d5755eceff9939a7e60f163
->>>>>>> 5afea115d58410701ee080af51546203fc2fae20
 			]
 		}
 	]
