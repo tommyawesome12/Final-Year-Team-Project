@@ -5,36 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Win.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Loose.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
-=======
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/Buildingmesh/SM_MERGED_StaticMeshActor_21.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Win.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Loose.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-=======
->>>>>>> 532441f45b584f440b844e83f051ab3954d32e85
->>>>>>> c38cb37cc646b0024f7ba5bc0aced74e1e33ee31
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TempUI/BP_WJ_Subtitles.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1_ChildNew.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Mother.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CothesRandomiser.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/lambert1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/CoatHanger.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/standardSurface1.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/SM_MERGED_StaticMeshActor_8.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_Mannequine.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Mannequine_Child1.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap"
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlacedObjects.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_Clothes.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/CoatHanger.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Dark/Shirt_lambert1_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Dark/Shirt_lambert1_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Dark/Shirt_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Light/Shirt_lambert1_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Light/Shirt_lambert1_Normal.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt_Light/Shirt_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_Clothes_Inst.uasset"
 			]
 		}
 	]
