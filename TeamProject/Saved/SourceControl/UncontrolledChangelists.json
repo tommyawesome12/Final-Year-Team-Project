@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CothesRandomiser.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtMesh/Shirt.uasset",
@@ -183,6 +184,20 @@
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/TrouserRack2/Dirty/DTrouserRack2_Material_001_BaseColor.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/TrouserRack2/Dirty/DTrouserRack2_Material_001_Normal.uasset",
 				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/TrouserRack2/Dirty/DTrouserRack2_Material_001_OcclusionRoughnessMetallic.uasset"
+=======
+<<<<<<< HEAD
+				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+=======
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_RoamingNPC.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Win.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Lost.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Unutterable_Font.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Unutterable.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Eater-Regular.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Eater-Regular_Font.uasset"
+>>>>>>> 0a4aa36606b6cda2a027025c7dba3db80ec627a2
+>>>>>>> a60445dae9506f7d5b8e862cdddeeaa35942a3d8
 			]
 		}
 	]
