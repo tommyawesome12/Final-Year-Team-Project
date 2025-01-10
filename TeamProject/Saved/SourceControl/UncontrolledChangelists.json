@@ -5,54 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_FoldedTrouserColoured.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_FoldedTrousers.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_HangerObjectiveSpawn.uasset",
-				"C:/Users/u2259548/Downloads/Final Year Team Project/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset"
-=======
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/ClothesShopWallsFloor.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/ClothesShopFloor_1001_Normal.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/ClothesShopFloor_1001_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/ClothesShopFloor_1001_BaseColor.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/ClothingTable.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/standardSurface1.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/SM_HangingTrousers.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/standardSurface1.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/T_TrousersHangerORM.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/SM_TrousersHanger.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Dark/T_HangingTrousers_BadBC.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Dark/T_HangingTrousers_BadN.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Dark/T_HangingTrousers_BadORM.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Light/T_HangingTrousersGoodBc.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Light/T_HangingTrousersGoodN.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/Light/T_HangingTrousersGoodORM.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/standardSurface1.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/T_TrousersHangerBC.uasset",
-				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/T_TrousersHangerN.uasset"
-=======
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_Power.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/SanityBar_Empty2.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/SanitySymbol.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/SanityBar_Full.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/Bar_Empty.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/StaminaSymbol.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/StaminaBar_Full.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/SanityBar_Full2.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/StaminaBar_Empty2.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/StaminaBar_Full2.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Lost.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_Guide.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_StartMenu.uasset",
-				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Win.uasset"
->>>>>>> 04cdc934706b11edc27cd556765eda8aa40bb0f0
->>>>>>> 7a2e964400b12547e81862f104c4a193278d49d3
+				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
 			]
 		}
 	]
