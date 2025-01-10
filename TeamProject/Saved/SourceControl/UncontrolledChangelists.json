@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2268350/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+=======
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_RoamingNPC.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Win.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Lost.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Unutterable_Font.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Unutterable.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Eater-Regular.uasset",
+				"C:/Users/U2269017/Downloads/FY_TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/Eater-Regular_Font.uasset"
+>>>>>>> 0a4aa36606b6cda2a027025c7dba3db80ec627a2
 			]
 		}
 	]
