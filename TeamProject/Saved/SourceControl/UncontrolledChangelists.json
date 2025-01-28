@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestOFJohnLevel.umap",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/MazeFloor.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
@@ -20,6 +21,18 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_BaseColor.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_Normal.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_OcclusionRoughnessMetallic.uasset"
+=======
+<<<<<<< HEAD
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+=======
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Portals.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_LightFlicker.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_LightFlicker2.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ID/YAMSHOV5N548SEWCQ2TMQJ.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OA/HZ7HY7F4RLKO7KM8YUUMNB.uasset"
+>>>>>>> 094a9b17e80f76f7fca3056842a57a441269cd35
+>>>>>>> 5d557a00663286b5a6b1f1f34b0eaa5ea02e2eb3
 			]
 		}
 	]
