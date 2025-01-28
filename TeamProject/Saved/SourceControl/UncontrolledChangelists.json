@@ -5,29 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/MazeFloor.uasset",
-				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
-=======
-				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Portals.uasset",
-				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
->>>>>>> 3ae063435976840720d8429c5b056ff77ee35581
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/LightingTest.umap",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Pigeonholes/BasicShapeMaterial.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_BlobShadow.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_MaksMaterial.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BP_AITest.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BT_Mannequinne.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BB_Mannequinne.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_CHanegPose.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BPI_GetEnemy.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_GetPlayerSanity.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BP_AI_Mannequinne.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_StalkPlayer.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_ChasePlayer.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Material/M_ShadowTest.uasset"
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
 			]
 		}
 	]
