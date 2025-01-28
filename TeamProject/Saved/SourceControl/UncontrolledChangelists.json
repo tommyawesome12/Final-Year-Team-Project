@@ -5,25 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestOFJohnLevel.umap",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/MazeFloor.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BP_AITest.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BPI_GetEnemy.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_StalkPlayer.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_ChasePlayer.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_CHanegPose.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_GetPlayerSanity.uasset",
-				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BT_Mannequinne.uasset"
-=======
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
-=======
-				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Portals.uasset",
-				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap"
->>>>>>> a6bbc383aa96a3f122f16b481840a85c0cfb2713
->>>>>>> f7fd895112240534b9cf829131bfd8a0df20b10e
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CothesRandomiser.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/BasicShapeMaterial.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/SM_MERGED_SkeletalMeshActor_3.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/Trousers/TrousersHanger/standardSurface1.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/Shirt/ShirtMesh/standardSurface1.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/Material_001.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTest2.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_BaseColor.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_Normal.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/clothes/ShirtTest/ShirtTestTextures/ShirtTest2_Material_001_OcclusionRoughnessMetallic.uasset"
 			]
 		}
 	]
