@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_CHanegPose.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BP_AITest.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/LightingTest.umap",
@@ -39,6 +40,14 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BT_Mannequinne.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BB_Mannequinne.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/Tasks/BP_BTT_ChasePlayer.uasset"
+=======
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Portals.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/_GENERATED/u2269017/MyPortalMesh.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Assets/MyPortalMesh1.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Assets/PortalMesh.uasset",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/u2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/PortalMaterial.uasset"
+>>>>>>> 6601f9764bc06cee20866eb0e93170fc16cdd70a
 			]
 		}
 	]
