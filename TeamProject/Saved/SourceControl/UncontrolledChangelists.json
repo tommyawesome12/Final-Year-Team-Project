@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Fog.uasset",
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog.uasset",
@@ -14,6 +15,39 @@
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_LightFlicker.uasset",
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Distortion.uasset",
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/ParticleSystem/N_Distortion.uasset"
+=======
+<<<<<<< HEAD
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelves/SM_WallRacks_RackArms1.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelves/SM_WallRacks_RackArms2.uasset",
+=======
+<<<<<<< HEAD
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/PP_OutlineShader_Inst.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CoinMachine.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CoinPickup.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
+=======
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Distortion.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Assets/Textures/SpiralTexture.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/N_Distortion.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/ParticleSystem/N_Distortion.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog_Inst.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/B_FogTriggers.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/B_Fog.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Portals.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Fog.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
+>>>>>>> 293a87cf77c02a2a79051a4b451b9e4fbcf99f47
+>>>>>>> 81e003f695e69e7db2169bcfd13676cd364dbb83
+				"C:/Users/TheSa/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+>>>>>>> 99f28a50102339e9722d7299f6ca7f85b724cc6f
 			]
 		}
 	]
