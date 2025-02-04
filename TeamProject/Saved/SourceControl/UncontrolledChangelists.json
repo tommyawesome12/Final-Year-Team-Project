@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+=======
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Playtest_Level.umap",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/John/SM_ClothesShop_WallFloor_NEW_SM_ClothesShop_Wall_Floor.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog_Inst.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircle.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircleTriggers.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Fog.uasset",
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_LightFlicker.uasset"
+>>>>>>> 36e289a38c37a844a85cfb79db0eac39750a9c4d
 			]
 		}
 	]
