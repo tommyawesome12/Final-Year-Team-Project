@@ -5,32 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/TempUI/BP_WJ_BlackScreen.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationTest/3/Running_Crawl.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationTest/3/BS_WalkBlend.uasset",
-				"C:/Users/u2259548/Downloads/TeamProjectNew/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationTest/3/ABP_Mannequinne.uasset"
-=======
-<<<<<<< HEAD
-				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
-=======
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Playtest_Level.umap",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/John/SM_ClothesShop_WallFloor_NEW_SM_ClothesShop_Wall_Floor.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog_Inst.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Sharan_Level.umap",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircle.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircleTriggers.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_Fog.uasset",
-				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_LightFlicker.uasset"
->>>>>>> 36e289a38c37a844a85cfb79db0eac39750a9c4d
->>>>>>> c3049780f0c6b5b15863c2f9fb39c9358a18214b
+				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_Power.uasset"
 			]
 		}
 	]
