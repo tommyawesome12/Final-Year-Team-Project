@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestOFJohnLevel.umap",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomCopyOfJohnLevel.umap",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel.umap",
@@ -606,6 +607,24 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/clothes/Boots/T_Boots_Good_ORM.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_TutorialMother.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_TillBlocker.uasset",
+=======
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/M_BrickWall.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelvesNew/M_WallRacks.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls2/M_DirtyWall.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_N.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_ORM.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_BC.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_Roughness.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_AO.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls/T_WallBrick_Height.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelvesNew/SM_WallRacksNew.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelvesNew/Textures/T_WallRacksNew_BC.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelvesNew/Textures/T_WallRacksNew_N.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/WallShelvesNew/Textures/T_WallRacksNew_ORM.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls2/T_DirtyWall_Roughnes.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls2/T_DirtyWall_BC.uasset",
+>>>>>>> 332e442317cbacc96308f9702abd2efc7068873f
 				"C:/Users/U2269017/Downloads/MyTeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Playtest2_Level.umap"
 			]
 		}
