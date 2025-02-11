@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TempSounds/WoodCrack1.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TempSounds/CreepyTalking.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TempSounds/SW_CreepyTalking.uasset",
@@ -32,6 +33,26 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationsAndCharacters/Mannequinne/Pose4_Anim_root_005_root_002Action.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationsAndCharacters/Mannequinne/Pose4_Anim_root_005_root_002Action_001.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationsAndCharacters/Mannequinne/Pose4_Anim_root_005_root_002Action_002.uasset"
+=======
+<<<<<<< HEAD
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/ClothingTable.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/ClothingTable.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset"
+=======
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_ShoppingList.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/IndieFlower-Regular.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/Font/IndieFlower-Regular_Font.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/Playtest_Level.umap",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_CameraFilter.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/Camera_FilterBlack.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/BG_SoundMix.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/Wispering_SoundClass.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicBG_SoundClass.uasset"
+>>>>>>> 40afe1d196d3646d066496b90d1b478efe11e183
+>>>>>>> 77066bf9ddf08ab395cb3eb81e391e8c4e3fa6ef
 			]
 		}
 	]
