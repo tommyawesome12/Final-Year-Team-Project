@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap"
+=======
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/Journal.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/Settings_Small.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/ExitGame_Big.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/Guide_Small.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/NewStart_Big.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/ExitGame_Small.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/Guide_Big.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/MenuBoard.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/MenuMall_Background.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/NewStart_Small.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/Settings_Big.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/TeamProject_Year3/Final-Year-Team-Project/TeamProject/Content/Sharan/Playtest_Level.umap"
+>>>>>>> 2f6e35a8ab996c0e4fde7862a242dfd003b7605c
 			]
 		}
 	]
