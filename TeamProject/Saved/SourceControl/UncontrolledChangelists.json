@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
+				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog_Inst.uasset",
+				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
 				"C:/Users/JJ/Desktop/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
