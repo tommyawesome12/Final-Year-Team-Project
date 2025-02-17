@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JamesCopyOfJohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesCopyOfJohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/standardSurface1.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_BC.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_N.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_ORM.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/M_Dust.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/dust-png-35075.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/NI_Dust.uasset",
+>>>>>>> 3ae31fc010a37794f376fe042abc9a110477370a
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomCopyOfJohnLevel.umap",
