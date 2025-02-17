@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/FootStep.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Steps.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/BoneBreak.uasset",
@@ -22,7 +23,22 @@
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/GuidePage.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/BackButton_Big.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/UI_Images/MainMenu_UI/BackButton_Small.uasset",
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> fddbbbaba8ebb1410ffb826523c3989ed6da51d6
 				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JamesCopyOfJohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesCopyOfJohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/standardSurface1.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_BC.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_N.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/ClothingTable/UpdatedTextures/T_ClothingTable_ORM.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/M_Dust.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/dust-png-35075.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/NI_Dust.uasset",
+>>>>>>> 3ae31fc010a37794f376fe042abc9a110477370a
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomCopyOfJohnLevel.umap",
@@ -55,6 +71,28 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/testimages/TempCrosshair.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TempUI/BP_WJ_Death.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AI/BT_Mannequinne.uasset",
+<<<<<<< HEAD
+=======
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_InisWall.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_GM_Tutorial.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_NavStop.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel/BP_TutorialMother.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_Guide.uasset",
+				"D:/UniversityWork/FinalYearWompWomp/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/FootStep.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Steps.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/BoneBreak.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Hit.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Impact.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/BG.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/ScreamMonster.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircleTriggers.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
+>>>>>>> fddbbbaba8ebb1410ffb826523c3989ed6da51d6
 				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/WIG_Start.uasset",
 				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
 				"C:/FY_TeamP/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_Fog_Inst.uasset",
