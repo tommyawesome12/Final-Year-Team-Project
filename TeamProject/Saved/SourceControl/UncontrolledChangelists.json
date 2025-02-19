@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/UI/BP_WIG_Guide.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
@@ -21,6 +22,12 @@
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Foot_Steps2.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/FootSteps3.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/FootSteps4.uasset",
+=======
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/SM_SM_KidsAreaWalls.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/SM_SM_MensAreaWalls.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/SM_SM_WomensAreaWalls.uasset",
+>>>>>>> 75762cf4bae8b34fbf9dd4379dec5368c061318f
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Wall3/M_KidsWalls.uasset",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Materials/M_FogCeiling.uasset",
