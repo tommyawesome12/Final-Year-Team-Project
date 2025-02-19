@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_FollowCamera.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomTestLevel.umap",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/CCTVCamera/SM_CCTVCameraNew_CameraBody_low.uasset",
@@ -27,6 +28,25 @@
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/AnimationsAndCharacters/Mother/TheMotherPlaceHolder_PhysicsAsset.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_MovableRacks.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_CameraProjectile.uasset"
+=======
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/OldAudio/FootStep.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/FootStep.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/OldAudio/Steps.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Steps.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/LowWinds1.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/LowWinds2.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/LowWinds3.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Cinematic1.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/Cinematic2.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/BG_SoundMix.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicBG_SoundClass.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/Wispering_SoundClass.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/LowWind1_Cue.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/LowWind2_Cue.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/SoundTesting_Level.umap",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/CinematicEntry_Cue.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/AudioHorror/LowWindsDouble.uasset"
+>>>>>>> 7faa4a4f54877b3420be67e9c709160eacb0e35b
 			]
 		}
 	]
