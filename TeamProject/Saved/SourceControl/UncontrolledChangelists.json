@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset"
+=======
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/SplineTool/BP_SplineWall.uasset"
+>>>>>>> e9a4ac6d3d730267cb1c4be5ddbc65b2db3379b4
 			]
 		}
 	]
