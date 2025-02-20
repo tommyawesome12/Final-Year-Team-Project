@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/HeartBeat_Cue.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/HeartBeat2_Cue.uasset",
@@ -25,6 +26,11 @@
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicGood_Cue.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicBad_Cue.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/VentilatorSound_Cue.uasset"
+=======
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/SplineTool/BP_SplineWall.uasset",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/WallSegment.uasset"
+>>>>>>> ec48df56f2e17c09de4f079f83f645bb07f93d5f
 			]
 		}
 	]
