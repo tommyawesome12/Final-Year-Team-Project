@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/NewSoundAttenuation.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/VentilatorMetaCue.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/VentilatorAttenuation.uasset",
@@ -15,6 +16,14 @@
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/SoundTesting_Level.umap",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicGood_Cue.uasset",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Audio/MusicBad_Cue.uasset"
+=======
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_Lights.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnLevel.umap",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Walls2/M_DirtyWall.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/BadAreaStuff/Wall3/M_KidsWalls.uasset",
+				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset"
+>>>>>>> 774b2c3f112ff8406abb694f8e431826f27af74c
 			]
 		}
 	]
