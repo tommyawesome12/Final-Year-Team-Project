@@ -10,6 +10,16 @@
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/SoundTesting_Level.umap",
 				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/MYTEAMPROJECT/Final-Year-Team-Project/TeamProject/Content/Sharan/Assets/SM_SM_MapAltered.uasset",
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/RBP_Mannequine1.uasset",
+<<<<<<< HEAD
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel.umap",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TomCopyOfJohnLevelNew.umap",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/FloorTiles/M_FloorTiling.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogTriggers.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_GM_Level1.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_FogCircleTriggers.uasset",
+				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TempUI/BP_WJ_Death.uasset"
+=======
 				"C:/Users/u2259548/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/TutorialLevel.umap"
 =======
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnSecondAttempt.umap"
@@ -22,6 +32,7 @@
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/Box_CC73B6BF.uasset",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/Box_93B04DD2.uasset"
 >>>>>>> 349868aa1f005c156ee3ed7c73383c0a40626b83
+>>>>>>> 82360dbfdc478d6beb63fd6d307c3b7dbc4b69e3
 			]
 		}
 	]
