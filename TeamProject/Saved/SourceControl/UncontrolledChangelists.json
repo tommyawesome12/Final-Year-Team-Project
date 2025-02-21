@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/U2268350/Downloads/Final-Year-Team-Project/TeamProject/Content/John/JohnSecondAttempt.umap"
+=======
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/NewLevelFloor.uasset",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/FloorGuide.uasset",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/Floor.uasset",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/Box_CC73B6BF.uasset",
+				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/Box_93B04DD2.uasset"
+>>>>>>> 349868aa1f005c156ee3ed7c73383c0a40626b83
 			]
 		}
 	]
