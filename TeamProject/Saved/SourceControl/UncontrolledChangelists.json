@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/ATeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/ATeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_IdleCamerashake.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/ATeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_WalkCamerashake.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/ATeamProject/Final-Year-Team-Project/TeamProject/Content/Sharan/Blueprints/BP_SprintCamerashake.uasset",
+				"C:/Users/U2269017/OneDrive - University of Huddersfield/Documents/ATeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/Tom_Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/JamesTestLevel.umap",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/James/_GENERATED/U2267831/WallPillar.uasset",
 				"C:/Users/U2267831/Downloads/TeamProject/Final-Year-Team-Project/TeamProject/Content/Tom/ModelsAndTextures/FloorTiles/M_FloorTiling.uasset",
